@@ -1,0 +1,54 @@
+{
+  "name": "solana #5",
+  "symbol": "IVN",
+  "description": "Collection for testing",
+  "seller_fee_basis_points": 250,
+  "image": "5.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7URazix4iGPHWbSqTuaWWzr8QiJof4Sxi1ivxgy4M77T",
+        "share": 100
+      }
+    ]
+  }
+}
